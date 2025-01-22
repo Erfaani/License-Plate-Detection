@@ -1,0 +1,7 @@
+data/
+notebooks/runs/detect/val
+notebooks/runs/detect/train
+
+
+!notebooks/runs/detect/train/weights/best.pt
+!notebooks/runs/detect/train/results.csv
